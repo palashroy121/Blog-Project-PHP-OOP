@@ -1,0 +1,52 @@
+body {
+	padding-top: 70px;
+	background: #EEEEEE !important;
+}
+
+.p5 {
+	padding: 10px;
+	
+}
+.p3 {
+	margin-top: -15px;
+}
+.p4 {
+ 	margin-top: -6px;
+ }
+ .heading {
+ 	margin-top: -5px;
+ 	margin-bottom: -15px;
+ 	font-size: 25px;
+ }
+ .heading a:hover {
+ 	color: blue;
+ 	text-decoration: none;
+ }
+ .read-mor:hover {
+ 	text-decoration: none;
+ }
+ .text {
+ 	margin-top: -4px;
+ 	font-size: 16px;
+ }
+ p .fa {
+ 	color: red;
+ 	font-size: 20px;
+ 	
+ }
+ .com-text {
+ 	font-family: "Comic Sans MS", cursive, sans-serif;
+ }
+.list-group-item  {
+	position: relative;
+	padding: 10px 15px 10px 30px;
+ }
+.list-group-item  span {
+	position: absolute;
+	left: 10px;
+    color: red;
+	font-weight: bold;
+ }
+ .nav li a {
+ 	text-transform: uppercase;
+ }
